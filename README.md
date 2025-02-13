@@ -6,7 +6,7 @@
 
 ```bash
 git clone https://github.com/ToDucThanh/LRU-visualization.git
-cd lru-visualization
+cd LRU-visualization
 ```
 
 ## Install dependencies
