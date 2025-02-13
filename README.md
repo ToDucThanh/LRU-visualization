@@ -5,7 +5,7 @@
 ## Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/lru-visualization.git
+git clone https://github.com/ToDucThanh/LRU-visualization.git
 cd lru-visualization
 ```
 
