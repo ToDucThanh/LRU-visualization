@@ -1,6 +1,6 @@
 # LRU Visualization
 
-![LRU Step-by-step](assets/lru-visualizating.gif)
+![lru-visualizing](assets/lru-visualizing.gif)
 
 ## Clone the repository
 
